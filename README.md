@@ -1,6 +1,8 @@
+神话三国志压级流程https://avanti1980.github.io/myth-of-three-kingdoms/
+
 目标：
 
-<img src="../img/intro.jpg" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Avanti1980/myth-of-three-kingdoms/master/img/intro.jpg" style="zoom:25%;" />
 
 岳云是第23位加入我军的武将（不含武媚娘、韩信），因此寿春战后我军总等级必须<=43级，实战测试达到了41级，还有2级的余裕
 
