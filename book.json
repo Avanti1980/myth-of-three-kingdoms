@@ -1,0 +1,85 @@
+{
+    "title": "archlinux",
+    "description": "archlinux的折腾记录",
+    "author": "Avanti",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "splitter",
+        "disqus",
+        "donate",
+        "github",
+        "github-buttons",
+        "copy-code-button",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "advanced-emoji",
+        "emphasize",
+        "mermaid-gb3",
+        "puml",
+        "graph",
+        "chart",
+        "-sharing",
+        "sharing-plus",
+        "tbfed-pagefooter",
+        "anchors",
+        "terminal"
+    ],
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "https://raw.githubusercontent.com/Avanti1980/Notes-on-Linear-Algebra/master/img/wx.jpg",
+            "alipay": "https://raw.githubusercontent.com/Avanti1980/Notes-on-Linear-Algebra/master/img/zfb.jpg",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝",
+            "wechatText": "微信"
+        },
+        "disqus": {
+            "shortName": "archlinux"
+        },
+        "github": {
+            "url": "https://github.com/Avanti1980"
+        },
+        "chart": {
+            "type": "c3"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": true,
+            "google": true,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": true,
+            "linkedin": true,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy Avanti 2020",
+            "modify_label": "文件最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "terminal": {
+            "copyButtons": true,
+            "fade": false,
+            "style": "flat"
+        }
+    }
+}
