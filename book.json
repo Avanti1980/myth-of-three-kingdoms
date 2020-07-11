@@ -1,6 +1,6 @@
 {
-    "title": "archlinux",
-    "description": "archlinux的折腾记录",
+    "title": "myth-of-three-kingdoms",
+    "description": "神话三国志压级记录",
     "author": "Avanti",
     "output.name": "site",
     "language": "zh-hans",
@@ -44,7 +44,7 @@
             "wechatText": "微信"
         },
         "disqus": {
-            "shortName": "archlinux"
+            "shortName": "Myth of Three Kingdoms"
         },
         "github": {
             "url": "https://github.com/Avanti1980"
